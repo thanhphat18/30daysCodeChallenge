@@ -87,7 +87,7 @@ public class MadLibs {
             index++;
         }
 
-        randomNums = " not " + numberHolder[0] + ", not" + numberHolder[1] + ", but " + numberHolder[2];
+        randomNums = " not " + numberHolder[0] + ", not " + numberHolder[1] + ", but " + numberHolder[2];
  
     }
 
